@@ -1,0 +1,9 @@
+station_id,station,first_year,last_year,months_total,months_kept,months_dropped_incomplete,pct_kept,daily_obs_used
+USC00167344,Plain Dealing (NW),1950,2026,827,814,13,98.4,24949
+USC00164355,Homer (N),1950,2026,916,876,40,95.6,27462
+USC00169806,Winnsboro (NE),1950,2026,891,851,40,95.5,26677
+USC00160098,Alexandria (Central),1950,2026,918,915,3,99.7,27828
+USW00013976,Lafayette Regional AP (SW),1950,2026,921,919,2,99.8,28001
+USC00166657,New Iberia (S Central),1950,2026,718,694,24,96.7,21568
+USC00162151,Covington (SE),1950,2026,757,749,8,98.9,22921
+USW00012930,New Orleans Audubon (SE Coastal),1950,2026,907,883,24,97.4,27287
