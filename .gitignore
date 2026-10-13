@@ -1,0 +1,5 @@
+data/raw/
+data/ghcnd-stations.txt
+data/ghcnd-inventory.txt
+__pycache__/
+*.pyc
